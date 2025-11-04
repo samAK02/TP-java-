@@ -1,4 +1,4 @@
-package fr.sam.SérieTP2;
+
 
 public class Polynôme {
 	public Monome m0;
