@@ -8,7 +8,7 @@ public class Compte {
 	private double tauxInteret;
 	
 	//constructeur
-	Compte(String numero, String titulaire, double tauxInteret){
+	public Compte(String numero, String titulaire, double tauxInteret){
 		this.numero = numero;
 		this.titulaire = titulaire;
 		this.tauxInteret = tauxInteret;
